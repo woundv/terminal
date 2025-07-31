@@ -1,7 +1,7 @@
 
 # powershell 7 configs
 
-my powershell configurations for windows 11 terminal running powershell 7
+my powershell configurations for the windows 11 terminal running powershell 7
 
 
 
