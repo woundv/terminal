@@ -23,7 +23,7 @@ in order for the profile to work, please download the following using the comman
 [download link for windows](https://github.com/fastfetch-cli/fastfetch/releases) | you will have to navigate to the more assests section and then install either the windows amd 64 version or the arm version (depending on your CPU architecture.
 
 once complete make sure to add fastfetch into your PATH (environment variables) and then change the directory to your own.
-## Authors
+## authors
 
 - [@wound](https://www.github.com/woundv)
 
